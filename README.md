@@ -1,8 +1,10 @@
 # 64-Hours-Chinese-Children-Speaking-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1001
+
 
 ## Description
-Children read English audio data, covering ages from preschool (3-5 years old) to post-school (6-12 years old) , with children's speech features; content accurately matches children's actual scenes of speaking English. It provides data support for children's smart home, automatic speech recognition and oral assessment in intelligent education scene, .
+Children read English audio data, covering ages from preschool (3-5 years old) to post-school (6-12 years old) , with children's speech features; content accurately matches children's actual scenes of speaking English. It provides data support for children's smart home, automatic speech recognition and oral assessment in intelligent education scene.
+
+For more details, please refer to the link: https://bit.ly/3UGKf1m
 
 ## Format
 16kHz,16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ English
 
 ## Application scene
 speech recognition; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
