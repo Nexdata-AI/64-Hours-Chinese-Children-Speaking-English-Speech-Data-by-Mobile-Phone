@@ -4,7 +4,7 @@
 ## Description
 Children read English audio data, covering ages from preschool (3-5 years old) to post-school (6-12 years old) , with children's speech features; content accurately matches children's actual scenes of speaking English. It provides data support for children's smart home, automatic speech recognition and oral assessment in intelligent education scene.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1001?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1001?source=Github
 
 
 ## Format
